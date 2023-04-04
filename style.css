@@ -1,6 +1,6 @@
 /* Style for the body */
 body {
-	background-color: #E8F8F5;
+	background-color: #7d17db;
 	color: #333333;
 	font-family: Arial, sans-serif;
 	margin: 0;
@@ -9,15 +9,12 @@ body {
 
 /* Style for the headings */
 h1, h2 {
-	color: #0C7C59;
 	font-weight: normal;
 	margin-bottom: 10px;
 }
 
 /* Style for the sections */
 section {
-	background-color: #FFFFFF;
-	border: 1px solid #0C7C59;
 	border-radius: 5px;
 	margin: 20px auto;
 	max-width: 600px;
@@ -39,7 +36,7 @@ table {
 
 /* Style for the table headings */
 th {
-	background-color: #0C7C59;
+	background-color: #A52A2A;
 	color: #FFFFFF;
 	padding: 10px;
 	text-align: left;
@@ -47,13 +44,13 @@ th {
 
 /* Style for the table cells */
 td {
-	border: 1px solid #0C7C59;
+	border: 1px solid #E9967A;
 	padding: 10px;
 }
 
 /* Style for the table caption */
 caption {
-	background-color: #E8F8F5;
+	background-color: #A52A2A;
 	font-style: italic;
 	padding: 10px;
 	text-align: center;
